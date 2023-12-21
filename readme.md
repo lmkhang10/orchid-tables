@@ -4,7 +4,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Build Status][ico-travis]][link-travis]
 [![StyleCI][ico-styleci]][link-styleci]
-[![PHP Composer](https://github.com/lintaba/orchid-tables/actions/workflows/php.yml/badge.svg)](https://github.com/lintaba/orchid-tables/actions/workflows/php.yml)
+[![PHP Composer](https://github.com/lmkhang10/orchid-tables/actions/workflows/php.yml/badge.svg)](https://github.com/lmkhang10/orchid-tables/actions/workflows/php.yml)
 
 An opinionated extension package for [Laravel Orchid](orchid) to extend its table handling capabilities, and some
 further useful helper methods.
@@ -14,7 +14,7 @@ further useful helper methods.
 Via Composer
 
 ``` bash
-$ composer require lintaba/orchid-tables
+$ composer require lmkhang10/orchid-tables
 ```
 
 ## Usage
@@ -404,19 +404,19 @@ Please see [contributing.md](contributing.md) and open tickets for details and a
 
 MIT. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/lintaba/orchid-tables.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/lmkhang10/orchid-tables.svg?style=flat-square
 
-[ico-downloads]: https://img.shields.io/packagist/dt/lintaba/orchid-tables.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/lmkhang10/orchid-tables.svg?style=flat-square
 
-[ico-travis]: https://img.shields.io/travis/lintaba/orchid-tables/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/lmkhang10/orchid-tables/master.svg?style=flat-square
 
 [ico-styleci]: https://styleci.io/repos/452941365/shield
 
-[link-packagist]: https://packagist.org/packages/lintaba/orchid-tables
+[link-packagist]: https://packagist.org/packages/lmkhang10/orchid-tables
 
-[link-downloads]: https://packagist.org/packages/lintaba/orchid-tables
+[link-downloads]: https://packagist.org/packages/lmkhang10/orchid-tables
 
-[link-travis]: https://travis-ci.org/lintaba/orchid-tables
+[link-travis]: https://travis-ci.org/lmkhang10/orchid-tables
 
 [link-styleci]: https://styleci.io/repos/452941365
 
